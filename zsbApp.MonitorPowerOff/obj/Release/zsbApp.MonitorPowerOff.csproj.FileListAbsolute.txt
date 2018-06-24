@@ -1,0 +1,6 @@
+E:\Code\GitHub\zsbApp.MonitorPowerOff\zsbApp.MonitorPowerOff\bin\Release\zsbApp.MonitorPowerOff.exe.config
+E:\Code\GitHub\zsbApp.MonitorPowerOff\zsbApp.MonitorPowerOff\bin\Release\zsbApp.MonitorPowerOff.exe
+E:\Code\GitHub\zsbApp.MonitorPowerOff\zsbApp.MonitorPowerOff\bin\Release\zsbApp.MonitorPowerOff.pdb
+E:\Code\GitHub\zsbApp.MonitorPowerOff\zsbApp.MonitorPowerOff\obj\Release\zsbApp.MonitorPowerOff.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\zsbApp.MonitorPowerOff\zsbApp.MonitorPowerOff\obj\Release\zsbApp.MonitorPowerOff.exe
+E:\Code\GitHub\zsbApp.MonitorPowerOff\zsbApp.MonitorPowerOff\obj\Release\zsbApp.MonitorPowerOff.pdb
